@@ -1,0 +1,3377 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "13",
+      "name": "Bollywood",
+      "publisher": "dip",
+      "tray_image_file": "001_salu.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_salu.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_rajni.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_priyankac.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_amir.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_srk.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_amitabh.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_kareena.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_rakhi.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_sh.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_badtamez.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_maayaoo.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_confuse_sperm.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "036_woww.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Boo",
+      "publisher": "dip",
+      "tray_image_file": "001_boo_aww.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_boo_aww.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_boo_blush.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_boo_hugsandkisses.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_boo_iloveyou.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_boo_peekaboo.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_boo_please.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_boo_sobs.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_boo_sorry.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_boo_angry.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_boo_chillax.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_boo_fedup.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_boo_gotohell.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "017_boo_hihihi.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "025_boo_thankyou.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "026_boo_byebye.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "027_boo_urock.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "031_boo_wassupyo.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "046_boo_laugh.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "048_boo_ok.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "051_boo_really.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Comictypo",
+      "publisher": "dip",
+      "tray_image_file": "005_comic_wow.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "005_comic_wow.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "019_comic_fine.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "021_comic_totally.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "022_comic_true.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "027_comic_samehere.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "029_comic_sure.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "030_comic_sweet.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "DesiLove",
+      "publisher": "dip",
+      "tray_image_file": "001_ilu_babu.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_ilu_babu.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "007_ilu_shona.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "024_ilu_imishu.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "043_ilu_ekmainhunaurek.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "1",
+      "name": "Expressions",
+      "publisher": "dip",
+      "tray_image_file": "001_gn.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gn.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_lol.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_rofl.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_lmao.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_omg.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "006_brb.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "007_gtg.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "008_xoxo.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "009_gm.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "011_lips.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "012_giftbox.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "014_cupcake.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "015_cakeslice.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "024_rose.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "066_osum.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "093_byee.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Greetings",
+      "publisher": "dip",
+      "tray_image_file": "001_higw.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_higw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_whatsupgw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_hellooogw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_goodmorninggw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "006_havenicedaygw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "008_greet_afternoon.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "011_thankyougw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "012_thankusomuchgw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "013_welcomegw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "016_goodnightgw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "017_sweetdreamsgw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "018_takecaregw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "021_heygw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "026_greet_lunchtime.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "029_fantasticgw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "030_brilliantgw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "031_amazinggw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "031_greet_morning.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "033_greet_wakeup.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "033_supergw.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "046_crazygw.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Gujarati",
+      "publisher": "dip",
+      "tray_image_file": "001_gj_aehaalo.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gj_aehaalo.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_gj_kemcho.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_gj_majama.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_gj_jobaka.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_gj_hosiyarinamaar.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "006_gj_alaaoyyy.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "007_gj_hutanepremkaruchu.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "008_gj_suvatkre.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "009_gj_bhaibhai.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "010_gj_doba.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "011_gj_vaatlagi.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "012_gj_aavjo.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "013_gj_saras.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "022_gj_shubhsavar.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "031_gj2_ha.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "032_gj_na.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "041_gj_jaishrikrishna.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "046_gj_hayhay.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "GujaratiLove",
+      "publisher": "dip",
+      "tray_image_file": "001_gjl2_hunpremkaruchu.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gjl2_hunpremkaruchu.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_gjl2_bakuda.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_gjl2_bakudi.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_gjl2_prempankhida.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_gjl2_taramaatekai.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "006_gjl2_tarajevakoinai.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "007_gjl2_tubausaarilageche.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "008_gjl2_tumanebaugameche.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "009_gjl2_tanemaarasam.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "010_gjl2_tumaarijaanche.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "011_gjl2_taravagerkainai.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "012_gjl2_taribauyaadave.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "HinglishPhrases",
+      "publisher": "dip",
+      "tray_image_file": "006_hinglish_omg.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "006_hinglish_omg.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_hinglish_iloveit.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_hinglish_yesbaby.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_hinglish_ok.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_hinglish_no.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "001_hinglish_ohshit.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "007_hinglish_bye.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "008_hinglish_bae.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "009_hinglish_whocares.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "010_hinglish_ohno.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "011_hinglish_sowhat.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "012_hinglish_ohplz.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "022_hinglish_ohdear.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Indian",
+      "publisher": "dip",
+      "tray_image_file": "007_pakaamat.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "007_pakaamat.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "008_abeysaale.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "009_ghanta.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "010_chamaat.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "011_Lelee.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "012_Item.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "013_Maakasam.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "014_Chalhatt.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "015_Bakwaas.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "016_Kanjoos.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "017_Badhaiho.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "019_Rahul.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "063_boss.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "LongDistance",
+      "publisher": "dip",
+      "tray_image_file": "001_longdistance_missu.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_longdistance_missu.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_longdistance_lonely.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_longdistance_youdontmissme.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_longdistance_thinking.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_longdistance_comebacksoon.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "006_longdistance_coming.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "007_longdistance_wishyou.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "008_longdistance_seeyousoon.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "009_longdistance_hatethis.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "010_longdistance_hugme.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "011_longdistance_majormissing.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "LoveNicknames",
+      "publisher": "dip",
+      "tray_image_file": "001_lovename_bae.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_lovename_bae.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_lovename_boo.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_lovename_hottie.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_lovename_cutie.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_lovename_smoochie.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "006_lovename_teddy.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "007_lovename_sweetie.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "008_lovename_cookie.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "009_lovename_princess.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "010_lovename_coochie.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "011_lovename_babydoll.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "012_lovename_babyboo.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "024_lovename_darling.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "025_lovename_gorgeous.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "030_lovename_queen.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Poofy",
+      "publisher": "dip",
+      "tray_image_file": "001_poof_happysmile.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_poof_happysmile.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "004_poof_heart.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "011_poof_laughing.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "012_poof_hey.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "017_poof_cool.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "020_poof_awesome.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "022_poof_thanks.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "049_poof_iagree.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Rageface",
+      "publisher": "dip",
+      "tray_image_file": "001_rf.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "002_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "003_rf.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "004_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "005_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "006_rf.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "007_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "008_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "009_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        },
+        {
+          "image_file": "010_rf.webp",
+          "emojis": [
+            "ðŸµ",
+            "ðŸ˜Œ"
+          ]
+        },
+        {
+          "image_file": "011_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ™‹"
+          ]
+        },
+        {
+          "image_file": "012_rf.webp",
+          "emojis": [
+            "ðŸ–",
+            "ðŸ‘‹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "ReligiousChants",
+      "publisher": "dip",
+      "tray_image_file": "004_religion_omnamahshivay.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "004_religion_omnamahshivay.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_religion_jaimatadi.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_religion_jaishrikrishna.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "001_religion_hari.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_religion_ganapatibappamoryaa.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_religion_allahhuakbar.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_religion_satnamshriwaheguru.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_religion_peacebewithyou.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_religion_praisethelord.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_religion_jaibhavanijaiambe.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_religion_hanuman.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_religion_jaijagan.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "013_religion_jaiharivitthal.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_religion_omsairam.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "015_religion_jaishriram.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "016_religion_hareramaharekr.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "017_religion_jaijinendra.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "018_religion_buddhamsharan.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "019_religion_jaimaakaali.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Parodevdas",
+      "publisher": "dip",
+      "tray_image_file": "002_parodev_paro.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "002_parodev_paro.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "001_parodev_deba.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_parodev_ektaselfie.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_parodev_muaaah.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_parodev_oshundari.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_parodev_kiholo.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_parodev_bhalobashe.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_parodev_milonhobekotod.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_parodev_koigoshuncho.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_parodev_sadherlaubanail.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_parodev_amaroporanojah.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_parodev_kothaycholle.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "013_parodev_sundarikomola.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_parodev_shudhuai.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "015_parodev_morieki.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "016_parodev_purano.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "017_parodev_tomar.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "018_parodev_dishahara.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "019_parodev_tomayhrid.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "020_parodev_tumirobe.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Naradmuni",
+      "publisher": "dip",
+      "tray_image_file": "001_gisc2_na_badiya.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gisc2_na_badiya.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_gisc2_na_dekhe.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_gisc2_na_bhagwan.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_gisc2_na_narayan.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_gisc2_na_maibhi.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_gisc2_na_singing.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_gisc2_na_crying.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_gisc2_na_gn.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_gisc2_na_sune.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_gisc2_na_.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_gisc2_yashahwibhava.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_gisc2_atisundar.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "013_gisc2_atiuttam.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_gisc2_sayiyamrakho.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "015_gisc2_aagyadijeye.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "016_gisc2_ghorkalyug.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "017_gisc2_satyavachan.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "018_gisc2_kaisepraniho.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "019_gisc2_bhagwanhebachaye.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "020_gisc2_akhirchatekyaho.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "021_gisc2_paapikahinke.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "022_gisc2_kuchtogadbadhhai.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "023_gisc2_bhotburahua.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "024_gisc2_kyabuddhibrasht.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "025_gisc2_kabsudhrogege.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "026_gisc2_shaant.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "027_gisc2_tuchbalak.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "028_gisc2_mahakanjoos.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "029_gisc2_itnakroodhkyun.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "030_gisc2_swadisth.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "AntiValentines",
+      "publisher": "dip",
+      "tray_image_file": "008_antivalentines_notimeforlove.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "008_antivalentines_notimeforlove.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_antivalentines_iloveme.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_antivalentines_visforvodka.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_antivalentines_stupidcupid.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_antivalentines_singlenawesome.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "006_antivalentines_brosoverhoes.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_antivalentines_sistersb4misters.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "001_antivalentines_screwvalentines.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_antivalentines_couplesareboring.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_antivalentines_lovebites.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_antivalentines_lovestinks.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_antivalentines_crushed.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "013_antivalentines_idontcare.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_antivalentines_nopdaplease.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "015_antivalentines_singlesrock.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "016_antivalentines_staysinglestayhappy.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "ExamFever",
+      "publisher": "dip",
+      "tray_image_file": "006_exam_padhlebeta.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "006_exam_padhlebeta.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "002_exam_kitnahogaya.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_exam_cantkeepcalm.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_exam_yaaryetopic.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "001_exam_examstress.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "007_exam_passkarade.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "008_exam_tuhimera.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "009_exam_heading.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "010_exam_cheating.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "011_exam_bohotbachahai.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "012_exam_group.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "013_exam_boards.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_exam_nerd.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "015_exam_tough.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "016_exam_needtopass.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "017_exam_saaletuhi.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "018_exam_tufailho.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "019_exam_passkarwadena.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "020_exam_chitrakhle.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "022_exam_revision.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "023_exam_ready.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "024_exam_tenmins.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "025_exam_iamfail.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "026_exam_maths.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "027_exam_annoying.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "028_exam_papakehte.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "029_exam_arrey.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "030_exam_lastpaper.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "031_exam_result.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "032_exam_bhagwankeghar.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Love",
+      "publisher": "dip",
+      "tray_image_file": "002_Lovehug.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "002_Lovehug.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "001_Carrying.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "003_Kisscheek.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "004_Missing.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "005_Park.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "006_Dinner.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "007_Beach.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "008_Kisshand.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "009_Dance.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "010_Flykiss.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "011_Roses.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "012_Smooch.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "013_Cheek.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "014_Kissme.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "015_Forehead.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "016_Hugs.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "017_Lovesign.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "018_Selfie.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "019_Laughing.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "020_Titanic.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "021_Stars.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "022_muahhhh.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "023_baby.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "024_sweetheart.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "025_heybeautiful.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "026_goodnightbaby.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "027_missyou.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "028_missyoutoo.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "029_loveyou.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "030_loveyoutoo.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Love1",
+      "publisher": "dip",
+      "tray_image_file": "033_malethinkingofyou.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "033_malethinkingofyou.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "032_femalehugging.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "031_loveyouinfinite.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "034_femalethinkingofyou.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "035_youmakemehappy.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "036_hugme.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "037_fatlips.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "038_teamo.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "039_sexy.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "040_cuddlingbed.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "041_winterlove.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "042_loverboy.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "043_malefemalefighting.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "044_heartbreak.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "045_nottalkingtoyou.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "046_makingmesmile.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "047_patchheart.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "048_happyanniversary.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "049_love_bikeriding.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "050_love_smooch.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "051_love_veniceboating.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "052_love_pinkyswear.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "053_love_proposing.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "054_love_chocopie.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "055_love_surprise.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "056_love_lovebirds.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Swaminarayan",
+      "publisher": "dip",
+      "tray_image_file": "swaminarayan.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "swaminarayan.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swmi1.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swmi2.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swmi3.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan1.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan2.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan3.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan4.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan5.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan6.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan7.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan8.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan9.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan10.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan11.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan12.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan13.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan14.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan15.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan16.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan17.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "swaminarayan18.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "swaminarayan20.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Daily Greetings",
+      "publisher": "dip",
+      "tray_image_file": "001_greet_morningkiss.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_greet_morningkiss.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "002_greet_wakey.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "004_greet_goodday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "005_greet_hug.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "006_greet_lazy.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "007_greet_sunday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "008_greet_afternoon.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "009_greet_goodnightbaby.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "011_greet_gnsd.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "012_greet_sleeptight.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "013_greet_morning.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "014_greet_shona.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "015_greet_monday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "018_greet_tea.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "023_greet_morningsunshine.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "025_greet_gmsweetheart.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "026_greet_lunchtime.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "027_greet_goodevening.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "029_greet_goodnightfriends.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "030_greet_shubhratri.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "031_greet_morning.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "036_greet_gnsweetie.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "038_greet_hug.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "039_greet_sleepwell.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "041_greet_wakeupbeautiful.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "042_greet_haveaniceday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "043_greet_goodnight.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "044_greet_sweetdreams.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "045_greet_risenshine.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "048_greet_gnhoney.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "24",
+      "name": "Happy Birthday",
+      "publisher": "dip",
+      "tray_image_file": "001_hbd_hbd.webp",
+      "image_data_version": "1",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_hbd_hbd.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "002_hbd_happybirthday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "003_hbd_happybday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "004_hbd_party.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "005_hbd_cantkeepcalm.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "006_hbd_birthdaymonth.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "007_hbd_birthdayweek.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "008_hbd_countdown.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "009_hbd_mahbday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "010_hbd_treat.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "011_hbd_urbday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "012_hbd_cheers.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "013_hbd_wish.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "014_hbd_timeofyear.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "015_hbd_urday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "016_hbd_bdaybumps.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "017_hbd_hbdhandsome.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "018_hbd_surprise.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "019_hbd_hbdhotness.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "020_hbd_gift.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "021_hbd_hbdgorgeous.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "022_hbd_cake.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "023_hbd_hiphiphurray.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "024_hbd_hbdbabe.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "025_hbd_mwah.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "026_hbd_hbdbaby.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "027_hbd_bhaikabday.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "028_hbd_bestie.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "029_hbd_frnds.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "030_hbd_hbd.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        }
+      ]
+    }
+  ]
+}
